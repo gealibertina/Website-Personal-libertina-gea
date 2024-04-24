@@ -28,6 +28,10 @@ website
 <a href="Modul 2 Nomor 2.html">Form Pemesanan Buku</a>
 <a href="Modul 2 Nomor 2.html">Form Perpanjangan Peminjaman Buku</a>
 <a href="Modul 3 nomor 2.html">Pengenalan HTML dan CSS dengan Variasi CSS</a>
+<a href="Modul 4 Bordered.html">Table dan Bordered</a>
+<a href="Modul 4.3.html">Form and Button</a>
+<a href="Modul 5 Javascript.html">Pengenalan Javascript</a>
+
 
 </div>
 </body>
