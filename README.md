@@ -31,7 +31,9 @@ website
 <a href="Modul 4 Bordered.html">Table dan Bordered</a>
 <a href="Modul 4.3.html">Form and Button</a>
 <a href="Modul 5 Javascript.html">Pengenalan Javascript</a>
-
+<a href="MODUL 6.html">MODUL 6 Stuktur jQuery</a>
+<a href="Modul 7.html">MODUL 7.1-7.4</a>
+<a href="Modul 8.html">MODUL 8</a>
 
 </div>
 </body>
